@@ -1,0 +1,67 @@
+[gd_scene format=3 uid="uid://ea1ans4br8ae"]
+
+[ext_resource type="Script" uid="uid://demk5umuyfuga" path="res://Scene/menu/main_menu.gd" id="1_hii65"]
+[ext_resource type="Texture2D" uid="uid://cnpsi2war3yn" path="res://assets/menu/LOGO_text.png" id="2_hii65"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_8ipsx"]
+load_path = "res://.godot/imported/Brown.png-45c361eaa264f030c0f16f3c39134d88.ctex"
+
+[node name="MainMenu" type="Node" unique_id=1978515506]
+script = ExtResource("1_hii65")
+
+[node name="TextureRect2" type="TextureRect" parent="." unique_id=1776772595]
+texture_filter = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = SubResource("CompressedTexture2D_8ipsx")
+stretch_mode = 1
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=197370366]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -415.5
+offset_top = -109.5
+offset_right = 415.5
+offset_bottom = -0.5
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_hii65")
+
+[node name="Level2" type="Button" parent="." unique_id=257914611]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 43.0
+offset_top = 65.0
+offset_right = 289.0
+offset_bottom = 148.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 30
+text = "Level 2"
+
+[node name="Level1" type="Button" parent="." unique_id=1466224545]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -284.0
+offset_top = 66.0
+offset_right = -38.0
+offset_bottom = 149.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 30
+text = "Level 1"
+
+[connection signal="pressed" from="Level2" to="." method="_on_level_2_pressed"]
+[connection signal="pressed" from="Level1" to="." method="_on_level_1_pressed"]
