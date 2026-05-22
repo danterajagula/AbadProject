@@ -1,0 +1,14 @@
+AnimatedSprite2D
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+Button
+VBoxContainer
+Label
+Panel
+Node
+CollisionShape2D
+Area2D
+RigidBody2D
+HBoxContainer
+TextureRect

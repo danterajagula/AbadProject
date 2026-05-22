@@ -1,0 +1,50 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1779275599
+::res://assets/::1778920458
+::res://assets/background/::1778919019
+Brown.png::CompressedTexture2D::6090759734263703385::1778911774::1778911827::1::::<><><>0<>0<>ea7349d9a4c32c847b6f7a4e6c8062c8<>res://.godot/imported/Brown.png-d4846fd45908aeba7e0a39355637f148.ctex::
+Green.png::CompressedTexture2D::150715181306670306::1778911780::1778911827::1::::<><><>0<>0<>58dc90be9f0577c43306f382e940acb7<>res://.godot/imported/Green.png-c8cb3fa3b8c1a08968c5f808f33c2317.ctex::
+Yellow.png::CompressedTexture2D::4280759511558710826::1778911780::1778911827::1::::<><><>0<>0<>06f43bb68cd40d3cb5129b47a4a7889e<>res://.godot/imported/Yellow.png-6d81c2eb9b84ec9a265eb0549f5c2993.ctex::
+::res://assets/background/PineForestParallax/::1778920444
+MorningLayer1.png::CompressedTexture2D::834628802149385023::1778918880::1778919020::1::::<><><>0<>0<>042c8a98039dec57e67d2dea18c1b70f<>res://.godot/imported/MorningLayer1.png-a153672f2cea7b2ea3e235cde653b510.ctex::
+MorningLayer2.png::CompressedTexture2D::7140252487362413322::1778918880::1778919020::1::::<><><>0<>0<>e5c407c30a0bcebb54ffc1a9de8bf83a<>res://.godot/imported/MorningLayer2.png-70751dbbce4444110c76991b8801b3f7.ctex::
+MorningLayer3.png::CompressedTexture2D::8408856001263632179::1778918880::1778919020::1::::<><><>0<>0<>ca1b4c35d0187d075884b59938c36601<>res://.godot/imported/MorningLayer3.png-4982c04f3307a6a0e1f2725df77e5cdc.ctex::
+MorningLayer4.png::CompressedTexture2D::7792682402052357792::1778918880::1778919020::1::::<><><>0<>0<>9078b5801949685ba6f224b3592ddb7c<>res://.godot/imported/MorningLayer4.png-bb7af56236dcda1edb694be6b9db18a9.ctex::
+MorningLayer5.png::CompressedTexture2D::1070025213679995839::1778918880::1778919019::1::::<><><>0<>0<>42d0bcb8429410bd393de712696ea207<>res://.godot/imported/MorningLayer5.png-fe06422594f86d341ebe78ed0fb65d8c.ctex::
+MorningLayer6.png::CompressedTexture2D::1331376273642443152::1778918880::1778919019::1::::<><><>0<>0<>2a25778058db78ef3cf4b1a4fc56652d<>res://.godot/imported/MorningLayer6.png-d901d968b0e268ca64fc28e3764195e9.ctex::
+::res://assets/character/::1778921366
+Collected.png::CompressedTexture2D::8977285995641044746::1778921202::1778921366::1::::<><><>0<>0<>8dfe878994b645b9b6eb597145435a56<>res://.godot/imported/Collected.png-5c4c1332f7bf7bdd41019442ccefecb6.ctex::
+Double Jump (32x32).png::CompressedTexture2D::6939025777556214959::1778920385::1778920458::1::::<><><>0<>0<>c490d63c08be9dd9ab318bdec8740997<>res://.godot/imported/Double Jump (32x32).png-a5b0e78d4e67200e8fdb51d3b163faff.ctex::
+Idle (32x32).png::CompressedTexture2D::2622196941655376132::1778761646::1778911910::1::::<><><>0<>0<>2c02d544c7421526871abf9b53f1c5a5<>res://.godot/imported/Idle (32x32).png-806501277ef50c03dcede374617aed98.ctex::
+Jump (32x32).png::CompressedTexture2D::8633225755056258975::1778756772::1778911910::1::::<><><>0<>0<>43997c4af197071184dfc5a2ef2fe5a1<>res://.godot/imported/Jump (32x32).png-08b43026e01ec10de869f7c1f82a9e93.ctex::
+Run (32x32).png::CompressedTexture2D::6149693919023247609::1778761905::1778911910::1::::<><><>0<>0<>d08fe549aa64eac5ca6031b632bd9a2b<>res://.godot/imported/Run (32x32).png-729cb1f03c499caf10b161c23b503655.ctex::
+::res://assets/game_elements/::1778921366
+Cherries.png::CompressedTexture2D::1362246599232323339::1778822741::1778911892::1::::<><><>0<>0<>12e1b2af670563d9b5038a631637c45c<>res://.godot/imported/Cherries.png-09a9133c2d41d2ad60f987894524d575.ctex::
+End (Idle).png::CompressedTexture2D::4543680964381768161::1778825929::1778911892::1::::<><><>0<>0<>95f7d43d146593b8b3418228a1174733<>res://.godot/imported/End (Idle).png-c6836d13d8b58db2cb2f04793964a8f0.ctex::
+heart.png::CompressedTexture2D::4857711264397327836::1778845787::1778911892::1::::<><><>0<>0<>73e1a8dde40a186e068d756ede1ff563<>res://.godot/imported/heart.png-f3cb68b61d6d23083567fe5b577dde3e.ctex::
+slime basic outline v2-Sheet.png::CompressedTexture2D::6992611056626928022::1778907661::1778921209::1::::<><><>0<>0<>f3a1a51dd8c74492123df121bbf54512<>res://.godot/imported/slime basic outline v2-Sheet.png-fdaa55667d74ae85d8b622c8ec27068d.ctex::
+::res://assets/menu/::1778919037
+LOGO_text.png::CompressedTexture2D::168157960157428021::1778829825::1778911605::1::::<><><>0<>0<>7b603b4bec73b1b6c1ae0a8eefb4f698<>res://.godot/imported/LOGO_text.png-2c7f3a397a64b9f1c73da875f296873c.ctex::
+::res://assets/terrain/::1778920419
+Terrain (16x16).png::CompressedTexture2D::8373315472759607871::1778911762::1778920419::1::::<><><>0<>0<>04450253da8c9ff4b016f44af992d1da<>res://.godot/imported/Terrain (16x16).png-4227b1e431baf19618dc32dd311914a2.ctex::
+::res://Scene/::1778912084
+::res://Scene/game_objects/::1778922458
+collectable.gd::GDScript::776790596009754292::1778824891::0::1::::<>Area2D<><>0<>0<><>::
+collectable.tscn::PackedScene::4355611432783768317::1778911891::0::1::::<><><>0<>0<><>::uid://lcjvlsg5i0ou::::res://Scene/game_objects/collectable.gd<>uid://tn5ac3158ej8::::res://assets/game_elements/Cherries.png
+enemy.gd::GDScript::4828339959320019081::1778915931::0::1::::<>RigidBody2D<><>0<>0<><>::
+enemy.tscn::PackedScene::1732362611551090799::1778921209::0::1::::<><><>0<>0<><>::uid://ca15b3cwgjaa8::::res://Scene/game_objects/enemy.gd<>uid://c6vjjusgainc5::::res://assets/game_elements/slime basic outline v2-Sheet.png
+fall_area.gd::GDScript::4130284592776829056::1778918394::0::1::::<>Area2D<><>0<>0<><>::
+finish.gd::GDScript::7156358021739964794::1778830782::0::1::::<>Area2D<><>0<>0<><>::
+finish.tscn::PackedScene::2205677705182947208::1778911891::0::1::::<><><>0<>0<><>::uid://c87uf20nca051::::res://Scene/game_objects/finish.gd<>uid://b5y805pvk7inh::::res://assets/game_elements/End (Idle).png
+main_chara.gd::GDScript::4542165582414030633::1778922334::0::1::::<>CharacterBody2D<><>0<>0<><>::
+main_chara.tscn::PackedScene::4288061801276096872::1778922458::0::1::::<><><>0<>0<><>::uid://b5yi2k4xuj5eb::::res://Scene/game_objects/main_chara.gd<>uid://du8874xkdbxtf::::res://assets/character/Jump (32x32).png<>uid://68t8y7jsqig1::::res://Scene/game_objects/particle.tscn<>uid://bdmhg22j3d8rg::::res://assets/character/Idle (32x32).png<>uid://c54k0gkrtcd7d::::res://assets/character/Double Jump (32x32).png<>uid://ctu7tb1tvxiov::::res://assets/character/Run (32x32).png
+particle.tscn::PackedScene::2245192483152156870::1778921496::0::1::::<><><>0<>0<><>::uid://d05wuauih64qo::::res://assets/character/Collected.png
+::res://Scene/levels/::1778922370
+Level1.tscn::PackedScene::3071132916544270345::1778916344::0::1::::<><><>0<>0<><>::uid://yxf02sdhwv56::::res://Scene/game_objects/enemy.tscn<>uid://b2df0st8ivnx5::::res://Scene/game_objects/main_chara.tscn<>uid://b3b5jwh11ee6p::::res://Scene/game_objects/collectable.tscn<>uid://6opgpedt013q::::res://Scene/game_objects/finish.tscn<>uid://dcvc6y41607pv::::res://Scene/menu/game_manager.gd<>uid://bs1upq8jl6wsb::::res://Scene/levels/Level2.tscn<>uid://be2bivu22u15v::::res://Scene/levels/pause.gd<>uid://cbhd2a18mp4l1::::res://assets/game_elements/heart.png
+Level2.tscn::PackedScene::3704735709324151877::1778918189::0::1::::<><><>0<>0<><>::uid://b2df0st8ivnx5::::res://Scene/game_objects/main_chara.tscn<>uid://6opgpedt013q::::res://Scene/game_objects/finish.tscn<>uid://ea1ans4br8ae::::res://Scene/menu/main_menu.tscn<>uid://b3b5jwh11ee6p::::res://Scene/game_objects/collectable.tscn<>uid://dcvc6y41607pv::::res://Scene/menu/game_manager.gd<>uid://cbhd2a18mp4l1::::res://assets/game_elements/heart.png
+Level3.tscn::PackedScene::7240339243943887028::1778922370::0::1::::<><><>0<>0<><>::uid://s76tqb2rc44c::::res://assets/background/PineForestParallax/MorningLayer6.png<>uid://cfai0d1hfy4q::::res://assets/background/Green.png<>uid://dja3lt1na3rcy::::res://assets/background/PineForestParallax/MorningLayer4.png<>uid://b2df0st8ivnx5::::res://Scene/game_objects/main_chara.tscn<>uid://c8y16ebq1uwbq::::res://assets/background/PineForestParallax/MorningLayer2.png<>uid://b3b5jwh11ee6p::::res://Scene/game_objects/collectable.tscn<>uid://6opgpedt013q::::res://Scene/game_objects/finish.tscn<>uid://bs1upq8jl6wsb::::res://Scene/levels/Level2.tscn<>uid://yxf02sdhwv56::::res://Scene/game_objects/enemy.tscn<>uid://by30giqd08chs::::res://Scene/game_objects/fall_area.gd<>uid://dcvc6y41607pv::::res://Scene/menu/game_manager.gd<>uid://cbhd2a18mp4l1::::res://assets/game_elements/heart.png
+pause.gd::GDScript::2722990396098946217::1778914899::0::1::::<>Node<><>0<>0<><>::
+::res://Scene/menu/::1778918487
+game_manager.gd::GDScript::7343169771370707019::1778918487::0::1::::<>Node<><>0<>0<><>::
+main_menu.gd::GDScript::7465451772370617796::1778912158::0::1::::<>Node<><>0<>0<><>::
+main_menu.tscn::PackedScene::282334728293758912::1778915389::0::1::::<><><>0<>0<><>::uid://demk5umuyfuga::::res://Scene/menu/main_menu.gd<>uid://cnpsi2war3yn::::res://assets/menu/LOGO_text.png
